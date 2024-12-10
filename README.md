@@ -4,3 +4,6 @@
 
 ## Pairwise for filtering and sorting 
 [Открыть таблицу](https://docs.google.com/spreadsheets/d/1QUbPx9tZ_pq4PZp6Xptry-Yd9BC5hVGo/edit?usp=sharing&ouid=103546442425628569603&rtpof=true&sd=true)
+
+## Decision Table for Paypal Payment 
+[Открыть таблицу](https://docs.google.com/spreadsheets/d/1rXVJE0l-eddQ5RowH4bKzTJdbPLCGUdv/edit?usp=drive_link&ouid=103546442425628569603&rtpof=true&sd=true)
