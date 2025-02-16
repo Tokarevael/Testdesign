@@ -21,7 +21,7 @@ Exception Cases:
 If the username or password does not meet the requirements, the user sees the message: "The username must contain 3 to 15 characters and can include letters, numbers, and symbols: _. The password must be at least 8 characters long, including at least one letter and one number".  
 In case of a server error, the user receives the message: "An error occurred while processing the request".  
 
-[User Registration](https://docs.google.com/spreadsheets/d/10-J-I-4K6tQvR2SgXdzFPXb5F2ei2ZBI/edit?usp=sharing&ouid=103546442425628569603&rtpof=true&sd=true)
+[User Registration](https://github.com/Tokarevael/Testdesign/blob/main/equivalence%20classes.xlsx)
 
 ## Pairwise for filtering and sorting 
 
@@ -48,7 +48,7 @@ Acceptance Criteria:
 Customers can choose to sort products by name (from A to Z and from Z to A) and by price (from low to high and from high to low).  
 The product list updates according to the chosen sort order.  
 
-[Filtering and sorting](https://docs.google.com/spreadsheets/d/1QUbPx9tZ_pq4PZp6Xptry-Yd9BC5hVGo/edit?usp=sharing&ouid=103546442425628569603&rtpof=true&sd=true)
+[Filtering and sorting](https://github.com/Tokarevael/Testdesign/blob/main/Pairwise1.xlsx)
 
 ## Decision Table for Paypal Payment   
 Application of the test design technique "Decision Table".  
@@ -59,4 +59,4 @@ A Paypal account has three statuses: valid, invalid and blocked, as well as such
 
 If the card status is valid and the balance on the account is sufficient for the purchase, the user can make the purchase. In all other cases, the transaction will be rejected.  
 
-[Paypal Payment](https://docs.google.com/spreadsheets/d/1rXVJE0l-eddQ5RowH4bKzTJdbPLCGUdv/edit?usp=drive_link&ouid=103546442425628569603&rtpof=true&sd=true)
+[Paypal Payment](https://github.com/Tokarevael/Testdesign/blob/main/Paypal.xlsx)
